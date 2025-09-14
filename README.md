@@ -6,5 +6,3 @@ https://gel352.github.io/gdsemap/
 
 2. 官网：https://cesium.com/
 
-## 使用说明
-1. 后面会添加的
